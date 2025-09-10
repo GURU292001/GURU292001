@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurumurugan L</h1>
-<h3 align="center">🚀 Full Stack Developer | Golang, Vue.js, SQL | Curious Coder & Tech Explorer</h3>
+<h3 align="center">Golang Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+scalable+backends+%F0%9F%9B%A0;Crafting+interactive+frontends+%F0%9F%9A%80;Love+clean+code+and+clever+systems+%F0%9F%92%BB" alt="Typing SVG" />
